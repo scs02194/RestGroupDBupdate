@@ -1,0 +1,11 @@
+C:\Users\scs02\source\repos\getholiday\getholiday\bin\Release\getholiday.exe.config
+C:\Users\scs02\source\repos\getholiday\getholiday\bin\Release\getholiday.exe
+C:\Users\scs02\source\repos\getholiday\getholiday\bin\Release\getholiday.pdb
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.csprojAssemblyReference.cache
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.Form1.resources
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.Properties.Resources.resources
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.csproj.GenerateResource.cache
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.exe
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.pdb
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.Form2.resources
+C:\Users\scs02\source\repos\getholiday\getholiday\obj\Release\getholiday.Form3.resources
